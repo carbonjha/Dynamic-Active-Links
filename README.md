@@ -1,2 +1,2 @@
 # Dynamic-Active-Links
-javascript to add active class to navbar 
+Simple jQuery to add "active" class to the navbar. 
